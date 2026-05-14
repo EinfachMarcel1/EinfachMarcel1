@@ -52,10 +52,3 @@ Ich baue selbst-gehostete Infrastruktur und SaaS-Produkte mit Fokus auf **Datens
 
 - 🌍 [battle-host.com](https://battle-host.com)
 - 📧 [m.gruszka@gruker.de](mailto:m.gruszka@gruker.de)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EinfachMarcel1&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EinfachMarcel1&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="160" />
-</p>
