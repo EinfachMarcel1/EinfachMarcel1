@@ -2,7 +2,7 @@
 
 **Co-Founder @ Gruker Digital Solutions** · IT Systemintegration · DACH
 
-Ich baue selbst-gehostete Infrastruktur und SaaS-Produkte mit Fokus auf **Datensouveränität und DSGVO-Compliance** — weil "EU-Hosting" mehr ist als nur ein Häkchen im Marketing.
+Ich baue selbst-gehostete Infrastruktur und SaaS-Produkte mit Fokus auf **Datensouveränität und DSGVO-Compliance**
 
 ---
 
@@ -47,13 +47,6 @@ Ich baue selbst-gehostete Infrastruktur und SaaS-Produkte mit Fokus auf **Datens
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 📈 Womit ich mich gerne beschäftige
-
-- **Self-Hosting > Managed Services** — wenn die Compliance es verlangt
-- **Performance-Tuning** — von ZFS ARC-Sizes bis Postgres Query-Plans
-- **Sauberes Logging & Observability** — Structured JSON mit Correlation IDs ab Tag 1
-- **Wenn was kaputtgeht**: erst verstehen, dann fixen (MCE-Errors lügen nicht)
 
 ### 🌐 Kontakt
 
