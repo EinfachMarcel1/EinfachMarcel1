@@ -8,9 +8,8 @@ Ich baue selbst-gehostete Infrastruktur und SaaS-Produkte mit Fokus auf **Datens
 
 ### 🛠️ Was ich gerade baue
 
-- 🤖 **AI Chat SaaS** — Multi-Model Chat-Plattform, ausschließlich EU-gehostete Provider (Azure OpenAI EU, Bedrock EU, Vertex AI EU, self-hosted Minimax). B2B-Compliance-fokussiert.
 - 🎮 **[battle-host.com](https://battle-host.com)** — Game- & VPS-Hosting auf eigener Proxmox-Infrastruktur (ARK, Minecraft, Rust, Palworld)
-- 🏗️ **Eigene Server-Hardware** — vom ZFS-Layout bis Caddy-Reverse-Proxy alles selbst gestrickt
+- 🏗️ **Eigene Server-Hardware** — vom ZFS-Layout bis Caddy-Reverse-Proxy
 
 ### ⚙️ Stack
 
