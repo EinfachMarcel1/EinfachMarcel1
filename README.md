@@ -8,7 +8,7 @@ Ich baue selbst-gehostete Infrastruktur und SaaS-Produkte mit Fokus auf **Datens
 
 ### 🛠️ Was ich gerade baue
 
-- 🎮 **[battle-host.com](https://battle-host.com)** — Game- & VPS-Hosting auf eigener Proxmox-Infrastruktur (ARK, Minecraft, Rust, Palworld)
+- 🎮 **[gruker.de](https://gruker.de)** — Software
 - 🏗️ **Eigene Server-Hardware** — vom ZFS-Layout bis Caddy-Reverse-Proxy
 
 ### ⚙️ Stack
@@ -50,5 +50,5 @@ Ich baue selbst-gehostete Infrastruktur und SaaS-Produkte mit Fokus auf **Datens
 
 ### 🌐 Kontakt
 
-- 🌍 [battle-host.com](https://battle-host.com)
+- 🌍 [gruker.de](https://gruker.de)
 - 📧 [m.gruszka@gruker.de](mailto:m.gruszka@gruker.de)
